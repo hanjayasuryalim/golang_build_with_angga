@@ -1,0 +1,13 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: beige;
+}
+.text {
+  color: aqua;
+}
+.store-info {
+  font-style: bolder;
+  color: #123abc;
+}
